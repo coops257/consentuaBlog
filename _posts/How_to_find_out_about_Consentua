@@ -1,7 +1,7 @@
 <H1>How do you find out about Consentua?</H1>
-Well reading this is a great startt! So far our customers have been coming to us.  Sometimes via a soft introduction from a partner or direct after a search or having looked us up on a directory (we are on IAPP for example).   The common element, however, is that they all have a specific need which Consentua fulfills.  A need for a system/service (aka an API) to handle consent management.  
+Well reading this is a great start. 
 
-Yet this new consent management tool has to look good for customers.  It must deliver more than just a consent.  It needs to be transparent and give users some degree of control too.  
+ So far our customers have been coming to us.  Sometimes via a soft introduction from a partner or direct after a search or having looked us up on a directory (we are on IAPP for example).   The common element, however, is that they all have a specific need which Consentua fulfills.  A need for a system/service (aka an API) to handle consent management.  
 
 This new ‘consent management system’ ideally has to be delivered as a software-as-a-service in the cloud (with all the caveats expected of a freemium service), but also in a secure and low fuss way too.  
 
@@ -17,13 +17,12 @@ This consent receipt can then be shared and used by any party that the consent o
 It is also secure, low impact in terms of the demands it has on customer systems.  Quick and easy to install via our plugins.    Also, the service is very flexible out of the box.  Consent templates drive the what the user sees on their mobile or browser.  Templates can be changed anytime.  Including, adding purposes, adding data types and new purpose groups, which could be due to a new product or 3rd party processor.    
 
 <H1>But can I see who has consented to what?</H1>
-Of course.  A number of queries are available via the API.  These are:  What has this specific user consented to?  Who has consented to what for this consent service?  These queries can be sued to help with subject access requests, notification of a  breach and finally if a data subject demands the right to be forgotten.  
+Of course.  A number of queries are available via the API.  These are:  What has this specific user consented to?  Who has consented to what for this consent service?  
 
-Consent services can be organisation wide, campaign-specific or even country level.  Yes, Consentua is international and can support any language as long as the translation is available,  the consent receipt is still created.  
+Consent services can be organisation wide, campaign-specific or even country level.  Yes, Consentua is international and can support any language as long as the translation is available the consent receipt is still created.  
 
- 
 <H1>Trust & Transparency</H1>
-It is not all about consent though.  One of the changes that GDPR brings is a demand for a more transparent description of the data types and purposes even when legitimate interest for processing this data is allowed.   A stretch ambition is to get apps to reduce the amount of clutter in terms and conditions.  This will hopefully mean apps use Consentua as the main vehicle for describing to the customer the service they can expect in return for sharing their personal data.   
+It is not all about consent though.  One of the changes that GDPR brings is a demand for a more transparent description of the data types and purposes even when legitimate interest for processing this data is allowed.   A stretch ambition is to get apps to reduce the amount of clutter in terms and conditions.  This will mean apps use Consentua as the main vehicle for describing to the customer the service they can expect in return for sharing their personal data.   
 
 Overall though the aim of Consentua is to improve the trust between customers and brands.  We believe that by having the transparent and easy to understand description of not only the types of personal data that are being used but why and for what purpose too; brands will increase trust.  This is because honesty that is then continually verified through practice and experience fosters trust.  But you have to explain what it is you are doing as a brand first.  
 
@@ -32,27 +31,28 @@ In short, consider Consentua to be an essential service, but one of many that en
 
 Already mentioned, but the Consentua widgets which are growing in number, provide an easy way of integrating with the API.   They are available via this Consentua page.   Consentua is more a B2B system that a B2C consent capture mechanism.  As it is what you do with this consent to process personal data that will be the key to fantastic customer service.  
 
-The widget is open source.   Please use as required and note Consentua can easily be a white label provided service if desired.   
+The widget is open source.   Please use as required and note it can easily be a white label provided service if desired.  
 
 <H1>Why Choose Consentua</H1>
+
 If you want the following:
 
 Great value.  WYSIWYG.  Clear & transparent pricing from $99.  
 A secure API that creates a ‘consent receipt’ that can be shared with others I allow.
 Low hassle to my enterprise.  No other strings or pre-requisites.  
 Easy to install.  Does not cost an army of consultants or much time.  Bearing in mind the GDRP deadline is approaching.  Use the widgets for fast start.
+
 Flexible to use.  Change is constant.  This service can keep up with the pace.  
 We do not have any demand for personal data to manage consent.  Only a common identifier.  
-Delivers Trust and Transparency. Enables Choice and Control.  
+Trust and Transparency.  Choice and Control.  
 
 <H1>How Many Steps to my own Consentua Service?</H1>
+
 Three.
 Create your Consent Template(s).  Describe the purposes, data types used for the purpose.   
-Deploy your widget where required, app’s, browsers, systems, platforms.  Turn on your Consentua service
-Capture consent from users and describe your needs for personal data in a clear and transparent way. .  Start using the permission to process personal date to deliver fantastic service.   
+Deploy your widget where required, app’s, browsers, systems, platforms.
+Capture consent.  Start using it.  
 
 <H1>Where do I Go?</H1>
 
 consentua.com
-or 
-contact@consentua.com
