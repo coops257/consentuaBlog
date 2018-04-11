@@ -2,7 +2,7 @@
 layout: post
 title: Consentua joins the Kantara Initiative
 published: true
-author: Chris_Cooper
+author: chris_cooper
 comments: true
 ---
 
