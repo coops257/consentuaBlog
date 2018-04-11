@@ -9,7 +9,7 @@ comments: true
 
 This month saw Consentua Creators, KnowNow Information, join the <a href="https://kantarainitiative.org/kantara-initiative-releases-first-open-global-consent-receipt-specification/">Kantara Initiative. </a>
 
-<img class="img-left" src="http://www.kn-i.com/images/KANTARA-initiative-1.png" alt="Kantara Initiative Logo">
+<img class="img-right" src="http://www.kn-i.com/images/KANTARA-initiative-1.png" alt="Kantara Initiative Logo">
 
 For over a year now the team at Consentua have been active participants in the evolution of the <em><a href="https://kantarainitiative.org/file-downloads/file-download-consent-receipt-recommendation-v1-0-r
 eport/">Consent Receipt specification</a></em>. As an <a href="https://kantarainitiative.org/confluence/display/infosharing/2+-+Consent+Receipt+Implementations">early adopter of the specification</a>, our team admired the work that Kantara perform in the wider identity and privacy space.
