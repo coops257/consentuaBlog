@@ -26,6 +26,7 @@ Consent receipts give the owner clear notice as to what a user has agreed that t
 The clarity and control provided by consent receipts opens up possibilities for awesome new digital services that make use of personal data, but at the same time respect the wishes and autonomy of data subjects.
 
 ## Interoperability
+<img class="img-center" src="http://www.kn-i.com/images/teamwork.jpg" alt="two cartoon characters working together to complete a jigsaw">
 
 Enabling and accelerating the interchange of personal data to realise new value requires barriers to be dismantled. Embracing interoperability - of the kind that consent receipts provide - will prevent barriers being erected and help stop rejection of third-party receipts because they ‘were not made here’.
 
