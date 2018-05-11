@@ -24,19 +24,21 @@ So far we have outlined plans for the next two releases.  These are Capybara and
 
 ## Vote with your thumbs
 
+<img class="img-right" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/thumbs.JPG" alt="img right">
+
 The intention is to have the majority of future functional change driven by customer demand. This seems much better  than us sitting back at Consentua HQ thinking we know best.  Yes, sometimes we will be selfish and promote a change that benefits Consentua, but only because that change will benefit the majority in terms of improved performance, security, resilience and maybe sometimes function.  
 
 To that end we ask our followers and users to help us prioritise the next functions and vote with your thumbs.   
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/thumbs.JPG" alt="img center">
 
 ## Understand the Key
+
+<img class="img-left" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Key.JPG" alt="img left">
 
 We have colour coded the cards to give readers an understanding of where the change will impact and who it will benefit.   What is interesting here is that we are shifting from an engineering driven set of changes to more customer driven changes.   May that long continue! 
 
 The key breaks down into different elements:  API, Dashboard, SDK from a purely compoent impact aspect.  Next is customer requested, easier management (for Consentua that is) and client centric function which is focused on identifying who the improving function will benefit. 
 
-<img class="img-center" src="{{ site.baseurl }}/public/post_imgs/2018-05-11-Consentua-Roadmap/Key.JPG" alt="img center">
 
 ## Consentua Roadmap
 
